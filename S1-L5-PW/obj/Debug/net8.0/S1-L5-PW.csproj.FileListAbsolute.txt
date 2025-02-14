@@ -1,0 +1,15 @@
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.AssemblyInfo.cs
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.sourcelink.json
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\bin\Debug\net8.0\S1-L5-PW.exe
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\bin\Debug\net8.0\S1-L5-PW.deps.json
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\bin\Debug\net8.0\S1-L5-PW.runtimeconfig.json
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\bin\Debug\net8.0\S1-L5-PW.dll
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\bin\Debug\net8.0\S1-L5-PW.pdb
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.dll
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\refint\S1-L5-PW.dll
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.pdb
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\S1-L5-PW.genruntimeconfig.cache
+C:\Users\aless\source\repos\Inchino\U1-S1-L5-PW_14-02-2025\S1-L5-PW\obj\Debug\net8.0\ref\S1-L5-PW.dll
